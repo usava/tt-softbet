@@ -1,1 +1,1 @@
-47 23 */2 * * /usr/bin/wget -O - -q -t 1 http://myproject.com/api/transactions/daily-sum
+47 23 */2 * * /usr/bin/wget -O -q -t 1 http://myproject.com/api/transactions/daily-sum
